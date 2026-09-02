@@ -15,4 +15,8 @@ One folder per topic; file names carry the problem ID from my problem book.
 | 09 Structs & malloc | 10 | 0 |
 | 10 Files | 6 | 0 |
 | 11 Linked List capstone | 8 | 0 |
-## How I work- Every problem typed by hand, no copy-paste.- One commit per problem, pushed the same day.- Compile: `gcc file.c -o run && ./run`
+## How I work
+
+- Every problem typed by hand, no copy-paste.
+- One commit per problem, pushed the same day.
+- Compile: `gcc file.c -o run && ./run`
