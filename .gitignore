@@ -1,0 +1,13 @@
+# compiled output - never commit these
+*.exe
+*.o
+*.out
+a.out
+*.obj
+bin/
+
+# editor and OS junk
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
