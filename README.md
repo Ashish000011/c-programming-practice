@@ -4,7 +4,7 @@ One folder per topic; file names carry the problem ID from my problem book.
 ## Progress
 | Topic | Problems | Done |
 |---|---|---|
-| 01 Basics | 12 | 0 |
+| 01 Basics | 12 | 12 |
 | 02 Conditionals | 12 | 0 |
 | 03 Loops & Patterns | 15 | 0 |
 | 04 Functions & Recursion | 12 | 0 |
