@@ -5,7 +5,7 @@ One folder per topic; file names carry the problem ID from my problem book.
 | Topic | Problems | Done |
 |---|---|---|
 | 01 Basics | 12 | 12 |
-| 02 Conditionals | 12 | 0 |
+| 02 Conditionals | 12 | 12 |
 | 03 Loops & Patterns | 15 | 0 |
 | 04 Functions & Recursion | 12 | 0 |
 | 05 1-D Arrays | 14 | 0 |
