@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
 
-    //variable declaraing and input taking 
+    //variable declaring and input taking 
     int number , last_digit;
     printf("Enter the number: \n");
     scanf("%d",&number);

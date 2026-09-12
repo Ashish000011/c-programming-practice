@@ -2,7 +2,7 @@
 int main(){
 
     //variable declering and input taking
-    int digit,reminder , sum ;
+    int digit , reminder , sum ;
     printf("Enter number of 3 digits: \n");
     scanf("%d",&digit);
 
